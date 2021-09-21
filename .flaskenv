@@ -1,0 +1,2 @@
+FLASK_APP=electric.py
+FLASK_ENV=development
