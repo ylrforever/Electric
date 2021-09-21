@@ -1,4 +1,5 @@
 #Electric API
+
 Flask API to get electricity usage data
 
 Request
